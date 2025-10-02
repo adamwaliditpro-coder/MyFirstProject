@@ -1,0 +1,14 @@
+C:\Users\Walid\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpPorject.exe
+C:\Users\Walid\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpPorject.deps.json
+C:\Users\Walid\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpPorject.runtimeconfig.json
+C:\Users\Walid\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpPorject.dll
+C:\Users\Walid\MyFirstCSharpProject\bin\Debug\net8.0\MyFirstCSharpPorject.pdb
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.AssemblyInfoInputs.cache
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.AssemblyInfo.cs
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.csproj.CoreCompileInputs.cache
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.dll
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\refint\MyFirstCSharpPorject.dll
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.pdb
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.genruntimeconfig.cache
+C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\ref\MyFirstCSharpPorject.dll
