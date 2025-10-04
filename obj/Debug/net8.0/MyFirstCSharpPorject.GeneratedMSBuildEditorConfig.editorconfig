@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyFirstCSharpPorject
-build_property.ProjectDir = C:\Users\Walid\MyFirstCSharpProject\
+build_property.ProjectDir = C:\Users\Walid\MyProjects\MyFirstCSharpProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

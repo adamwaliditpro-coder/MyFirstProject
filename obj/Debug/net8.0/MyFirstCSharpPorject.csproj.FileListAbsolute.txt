@@ -12,3 +12,11 @@ C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\refint\MyFirstCSharpPorject
 C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.pdb
 C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.genruntimeconfig.cache
 C:\Users\Walid\MyFirstCSharpProject\obj\Debug\net8.0\ref\MyFirstCSharpPorject.dll
+C:\Users\Walid\MyProjects\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walid\MyProjects\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.AssemblyInfoInputs.cache
+C:\Users\Walid\MyProjects\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.AssemblyInfo.cs
+C:\Users\Walid\MyProjects\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.csproj.CoreCompileInputs.cache
+C:\Users\Walid\MyProjects\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.sourcelink.json
+C:\Users\Walid\MyProjects\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.dll
+C:\Users\Walid\MyProjects\MyFirstCSharpProject\obj\Debug\net8.0\refint\MyFirstCSharpPorject.dll
+C:\Users\Walid\MyProjects\MyFirstCSharpProject\obj\Debug\net8.0\MyFirstCSharpPorject.pdb
